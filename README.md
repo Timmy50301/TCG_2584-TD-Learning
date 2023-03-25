@@ -1,6 +1,7 @@
 # 2584-Framework & Temporal Difference Learning
 
 Framework for 2048 & 2048-like Games (C++ 11)
+
 A well trained player based on TD learning and n-tuple network.
 
 ## Basic Usage
